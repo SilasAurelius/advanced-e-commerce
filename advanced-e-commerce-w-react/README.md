@@ -22,7 +22,7 @@ This project is a fully functional **Admin Panel** for managing an e-commerce pl
 - **Create Orders**: Admins can place orders by selecting a customer and choosing one or more products.
 - **View Orders**: See a list of existing orders along with customer associations.
 
-### 🧰 Built With
+### Built With
 - **React** (Frontend)
 - **React-Bootstrap** (Styling & Layout)
 -  **React Router** (Routing)
